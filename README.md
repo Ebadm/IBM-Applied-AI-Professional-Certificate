@@ -1,15 +1,17 @@
-# Applied Data Science Specialization Project Repository
+# IBM Applied AI Professional Certificate Projects
 
-This repository is dedicated to the Applied Data Science Specialization provided by Coursera. The specialization is designed to develop critical data science skills through the use of Python and a suite of data science tools. It encompasses various aspects of data science and machine learning, from basic data processing and visualization to the implementation of machine learning algorithms.
+This repository contains my projects and exercises associated with the IBM Applied AI Professional Certificate. The specialization, offered by IBM through Coursera, equips learners with essential skills to implement artificial intelligence using IBM Watson AI services.
 
-## Specialization Overview
+## About the Specialization
 
-The Applied Data Science Specialization offers hands-on experience in data science where I've learned to:
+The professional certificate program focuses on practical applications of AI. It teaches how to build AI-powered applications, leveraging IBM Watson for natural language processing, computer vision, and machine learning.
 
-- Manipulate and analyze complex data sets using advanced Python libraries like pandas, NumPy, and Matplotlib.
-- Create effective visualizations to interpret data findings.
-- Build predictive models and understand the fundamentals behind machine learning algorithms.
-- Apply practical skills in creating a capstone project that involves solving a real-world data science problem.
+## What's Inside the Course
+
+- **AI Models**: Implementations of various AI models using IBM Watson.
+- **Project Notebooks**: Jupyter notebooks with Python code, showcasing the AI solutions developed.
+- **Case Studies**: Real-world AI scenarios addressed using the skills acquired.
+- **Learning Notes**: Key takeaways and concepts learned throughout the courses.
 
 ## Certification
 
@@ -21,8 +23,7 @@ To verify the certificates, click the images to follow the links.
   <a href="https://coursera.org/share/ad6f2c2374128ffb09b43c9af2fde02f"><img src="https://github.com/Ebadm/IBM-Data-Science-Professional-Certificate/assets/64616825/bd03f19b-b38f-4ae8-a3a6-75f7c6f77f15" height="400"></a>
 </p>
 
-
-To learn more about the specialization, visit the [Applied Data Science Specialization on Coursera](https://www.coursera.org/specializations/applied-data-science).
+For more information about the specialization, please visit [IBM Applied AI Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai).
 
 Thank you for visiting my repository, and I hope the projects and code here will inspire and assist you on your own data science journey.
 
